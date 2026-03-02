@@ -24,7 +24,7 @@ This repository serves as the central hub for our projects, datasets, tools, and
 
 1. **Clone the Repository**:
    ```
-   git clone https://github.com/yourusername/Tech3space.git
+   git clone https://github.com/Tech3Space/Tech3space.git
    ```
 
 2. **Install Dependencies** (if applicable):
