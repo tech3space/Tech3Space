@@ -98,36 +98,6 @@ Security by Design • Performance at Scale • Reproducible & Open Research
 ---
 
   
-
-## 🌍 Open Source & Contributions
-
-Actively contributing to and building:
-- Secure Transformer implementations
-- PyTorch ecosystem (custom devices & acceleration)
-- Cybersecurity tooling & AI threat detection
-- Educational research repos on LLMs + Security
-
-**Featured Areas**
-- Transformer from-scratch + security hardening
-- LLM inference optimization with defensive layers
-- Kernel security modules for AI workloads
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE">
-    <img src="https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
-**Tech3Space** — Research lab merging **AI Intelligence** with **Cyber Resilience**.
-
-*Open to collaborations on Secure AI, Transformer optimization, Red/Blue teaming, and hardware-accelerated systems.*
-
----
-
 ## 👨‍💻 Hello, I'm Ankit!
 
 <div align="left">
