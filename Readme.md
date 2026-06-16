@@ -97,18 +97,7 @@ Security by Design • Performance at Scale • Reproducible & Open Research
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnkitKushwaha90&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitKushwaha90&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AnkitKushwaha90&theme=github-dark-blue&hide_border=true&ring=58a6ff&fire=ff7c3f" height="165"/>
-</p>
-
----
+  
 
 ## 🌍 Open Source & Contributions
 
@@ -136,73 +125,6 @@ Actively contributing to and building:
 **Tech3Space** — Research lab merging **AI Intelligence** with **Cyber Resilience**.
 
 *Open to collaborations on Secure AI, Transformer optimization, Red/Blue teaming, and hardware-accelerated systems.*
-
----
-
-> **"Build, break, understand, secure, rebuild — forging the future of intelligent and resilient systems."**
-
----
-
-**Made with ❤️ for the AI + Cybersecurity Open Source Community**
- 
-
-### Why this version creates a **powerful impression**:
-- Strong visual header with gradient
-- Clear fusion of **AI (Transformers)** + **Cybersecurity**
-- Highlights **current work** on Transformers + all previous skills
-- Professional table + detailed tech sections
-- Research papers + active projects
-- Stats + call-to-action
-
-**How to use**:
-1. Go to `https://github.com/AnkitKushwaha90/AnkitKushwaha90`
-2. Replace `README.md` with this content
-3. Update LinkedIn, TryHackMe, Scholar links
-
-Want any tweaks (more focus on one area, add specific project links, change colors, etc.)? Just say the word!
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0d1117,50:1f2a44,100:58a6ff&height=180&section=header&text=Ankit%20Kushwaha&fontSize=50&fontColor=58A6FF&animation=fadeIn&fontAlignY=45&desc=Tech3Space%20%E2%80%A2%20Building%20Intelligent%20%26%20Resilient%20Systems&descAlignY=70&descSize=20&descColor=c9d1d9&iconBefore=🧠&iconAfter=🛡️" alt="Header"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Ankitkushwaha90" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&cacheSeconds=3600" alt="GitHub"/>
-  </a>
-  <a href="https://linkedin.com/in/ankitkushwaha90" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&cacheSeconds=3600" alt="LinkedIn"/>
-  </a>
-  <a href="https://tryhackme.com/p/YOUR-USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/TryHackMe-212121?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
-  </a>
-  <a href="https://scholar.google.com/citations?user=YOUR-SCHOLAR-ID" target="_blank">
-    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FAnkitkushwaha90" alt="Profile Views"/>
-  <img src="https://forthebadge.com/videos/badge-made-with-love.svg" alt="Made with Love"/>
-  <img src="https://forthebadge.com/videos/badge-opensource.svg" alt="Open Source"/>
-</p>
-
----
-
-<div align="center">
-  <h1>🧠 AI × Cybersecurity Researcher</h1>
-  <h2>🛡️ Systems Engineer @ Tech3Space</h2>
-  
-  <p>
-    <em>Building next-generation <strong>intelligent</strong> and <strong>resilient</strong> systems</em>
-  </p>
-  
-  <p>
-    <strong>Transformers</strong> • <strong>LLM Acceleration</strong> • <strong>Secure AI</strong> • <strong>Hardware Co-Design</strong> • <strong>Offensive/Defensive Security</strong>
-  </p>
-  
-  <hr/>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Ankitkushwaha90&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&width=400" height="165"/>
-</div>
 
 ---
 
