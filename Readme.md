@@ -1,278 +1,148 @@
-# 🧠 Tech3Space Research: Deep Dive into Transformer Architectures
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Deep%20Learning-Transformers-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/NLP-LLMs-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Tech3Space-Research-orange?style=for-the-badge"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0d1117,50:1f2a44,100:58a6ff&height=160&section=header&text=Ankit%20Kushwaha&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Tech3Space%20%E2%80%A2%20AI%20Researcher%20%7C%20Cybersecurity%20Engineer&descAlignY=78&descSize=18&descColor=8b949e" alt="Header"/>
 </p>
 
-## 🚀 Introduction
-
-Transformers have revolutionized Artificial Intelligence by replacing recurrent architectures with **self-attention mechanisms**, enabling efficient parallel computation and superior long-range dependency modeling.
-
-The original Transformer was introduced in the paper:
-
-> **"Attention Is All You Need" (2017)**
-
-Today, almost every modern Large Language Model (LLM)—including GPT, LLaMA, Mistral, Gemma, Qwen, Falcon, and Mixtral—is built upon Transformer principles with architectural innovations.
-
----
-
-# 🏗️ Complete Transformer Architecture
-
-```text
-                Input Tokens
-                      │
-                      ▼
-             Token Embedding Layer
-                      │
-                      ▼
-        Positional Encoding / RoPE
-                      │
-                      ▼
-        ┌───────────────────────────┐
-        │      Transformer Block     │
-        │                           │
-        │   ┌───────────────────┐   │
-        │   │   RMSNorm/LN      │   │
-        │   └────────┬──────────┘   │
-        │            ▼              │
-        │   Multi-Head Attention    │
-        │            │              │
-        │      Residual Add         │
-        │            ▼              │
-        │     RMSNorm / LayerNorm   │
-        │            ▼              │
-        │ Feed Forward (MLP/GLU)    │
-        │            │              │
-        │      Residual Add         │
-        └───────────────────────────┘
-                      │
-                Repeat N Layers
-                      │
-                      ▼
-             Final Normalization
-                      │
-                      ▼
-               Linear Projection
-                      │
-                      ▼
-                 Softmax Output
-```
+<p align="center">
+  <a href="https://github.com/AnkitKushwaha90">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://tryhackme.com/p/YOUR-USERNAME">
+    <img src="https://img.shields.io/badge/TryHackMe-212121?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
+  </a>
+  <a href="https://scholar.google.com/citations?user=YOUR-SCHOLAR-ID">
+    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/>
+  </a>
+</p>
 
 ---
 
-# 📚 Mathematical Foundations
-
-## 1. Token Embedding
-
-Each token is mapped into a dense vector:
-
-[
-x_i = E(token_i)
-]
-
-where
-
-* (E) = embedding matrix
-* (x_i \in \mathbb{R}^{d_{model}})
+<div align="center">
+  <h2>AI × Cybersecurity Researcher & Systems Engineer</h2>
+  <p><strong>Transformers • LLM Acceleration • Secure AI Systems • Hardware Co-Design • Offensive & Defensive Security</strong></p>
+  <p>Building next-generation intelligent and resilient systems at <strong>Tech3Space</strong></p>
+</div>
 
 ---
 
-## 2. Positional Encoding
-
-Original Transformer:
-
-[
-PE(pos,2i)=\sin\left(\frac{pos}{10000^{2i/d}}\right)
-]
-
-[
-PE(pos,2i+1)=\cos\left(\frac{pos}{10000^{2i/d}}\right)
-]
-
-Modern LLMs instead prefer **Rotary Position Embeddings (RoPE)**.
+| 👋 About Me |
+|-------------|
+| 🧑‍💻 **Ankit Kushwaha** — Passionate AI & Cybersecurity Researcher <br>🏢 **Founder & Lead Researcher @ Tech3Space** <br>🌍 Based in **India** <br>🔥 Currently advancing **Transformer architectures**, LLM acceleration, and **AI-powered cybersecurity** <br>🛡️ Bridging **Deep Learning Systems** with **Offensive/Defensive Security** and hardware-level protections <br>⚡ Deep expertise in **PyTorch internals**, custom accelerators, kernel security, and scalable inference <br>🔬 Implementing foundational research papers while building production-grade secure AI systems <br>💬 Ask me about **Transformers, LLM Optimization, AI Security, Red Teaming, or Hardware Acceleration** <br>⚡ Motto: *“Build, break, understand, secure, rebuild — forging intelligent and resilient systems.”* |
 
 ---
 
-## 3. Query, Key and Value
+## 🛠️ Tech Arsenal
 
-[
-Q=XW_Q
-]
+**Languages**  
+Python • C++ • C • Rust • Go • Bash • PowerShell
 
-[
-K=XW_K
-]
+**AI & Research Stack**  
+PyTorch • Hugging Face • Transformers • vLLM • CUDA • Triton • NumPy • Datasets
 
-[
-V=XW_V
-]
+**Cybersecurity Stack**  
+Metasploit • Burp Suite • Nmap • Wireshark • Ghidra • Volatility • ELK • Splunk • OWASP • MITRE ATT&CK
 
-where
+**Specialized Domains**
 
-* (W_Q,W_K,W_V) are learned matrices.
-
----
-
-## 4. Scaled Dot-Product Attention
-
-[
-Attention(Q,K,V)
-================
-
-Softmax
-\left(
-\frac{QK^T}{\sqrt{d_k}}
-\right)
-V
-]
-
-This computes similarity between tokens and aggregates contextual information.
+- **Transformers & LLMs** — Self-Attention, Decoder-only, Scaling Laws, FlashAttention, MoE, Long-Context Modeling
+- **LLM Acceleration** — Inference optimization, kernel fusion, operator dispatch on custom hardware
+- **PyTorch OOT Device** — Custom accelerator backend, device guard, ATen ops, dispatcher
+- **Velox Internals** — Expression evaluation, vectorization, runtime optimization
+- **FPGA-accelerated Systems** — SQL query engines & cryptography on hardware
+- **Multimodal AI** — Text + Image + Audio pipelines with security considerations
+- **AI Agent Benchmarking** — Rigorous evaluation & adversarial robustness testing
+- **Offensive Security** — Exploit development, red teaming, vulnerability research
+- **Defensive Security** — Threat hunting, SIEM, incident response, kernel hardening
+- **Secure AI** — Adversarial ML, model poisoning defense, secure inference pipelines
 
 ---
 
-## 5. Multi-Head Attention
+## 📖 Foundational Research I Study & Implement
 
-[
-head_i
-======
+### Transformers & AI Systems
+1. **Attention Is All You Need (2017)** — Vaswani et al.
+2. **BERT (2018)**, **GPT (2018)**, **GPT-3 (2020)**
+3. **Transformer-XL**, **ViT**, **T5**, **FlashAttention (2022)**
 
-Attention(Q_i,K_i,V_i)
-]
+### Cybersecurity & Secure Systems
+1. **MITRE ATT&CK Framework** & **Zero Trust Architecture**
+2. **Spectre & Meltdown** — Side-channel attacks
+3. **Supply Chain Security** (SolarWinds lessons)
+4. **AI for Security** — Anomaly detection & malware classification
 
-[
-MHA
-===
-
-Concat(head_1,\dots,head_h)W_O
-]
-
-Multiple heads learn different relationships simultaneously.
-
----
-
-## 6. Residual Connection
-
-[
-y=x+f(x)
-]
-
-Residual pathways improve optimization and stabilize deep networks.
+**Currently Working On:**
+- Transformer variants with built-in adversarial robustness
+- Custom PyTorch device backends for secure & accelerated inference
+- AI-powered threat detection integrated with LLM systems
+- FPGA-accelerated secure query engines
+- Kernel-level security modules for AI workloads
 
 ---
 
-## 7. Layer Normalization
+## 🌱 Tech3Space — Active Research & Projects
 
-For vector (x):
+- **Transformer Research** — Building & optimizing models from scratch (GPT/BERT-style)
+- **LLM Fine-tuning & Acceleration** — LoRA/QLoRA, vLLM, quantization, kernel fusion
+- **Secure Multimodal Systems** — Text + Image + Audio with adversarial defenses
+- **AI-Powered Cybersecurity** — Threat intelligence, anomaly detection, automated red teaming
+- **Hardware Acceleration** — PyTorch OOT devices, Velox optimizations, FPGA prototypes
+- **Kernel & Systems Security** — Linux kernel modules, container hardening, monitoring tools
+- **Reproducible Labs** — Dockerized environments for security research & AI experiments
 
-[
-LN(x)
-=====
-
-\gamma
-\frac{x-\mu}
-{\sqrt{\sigma^2+\epsilon}}
-+\beta
-]
-
-Used heavily in the original Transformer and GPT family.
+**Philosophy**  
+Security by Design • Performance at Scale • Reproducible & Open Research
 
 ---
 
-## 8. RMSNorm
+## 📊 GitHub Stats
 
-Modern LLMs often replace LayerNorm with RMSNorm:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnkitKushwaha90&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitKushwaha90&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" height="165"/>
+</p>
 
-[
-RMS(x)
-======
-
-\sqrt{
-\frac{1}{n}
-\sum_{i=1}^{n}
-x_i^2
-}
-]
-
-[
-RMSNorm(x)
-==========
-
-\frac{x}
-{RMS(x)+\epsilon}
-\cdot g
-]
-
-Advantages:
-
-* Faster computation
-* Lower memory overhead
-* Similar or improved stability
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AnkitKushwaha90&theme=github-dark-blue&hide_border=true&ring=58a6ff&fire=ff7c3f" height="165"/>
+</p>
 
 ---
 
-## 9. Feed Forward Network (FFN)
+## 🌍 Open Source & Contributions
 
-Original Transformer:
+Actively contributing to and building:
+- Secure Transformer implementations
+- PyTorch ecosystem (custom devices & acceleration)
+- Cybersecurity tooling & AI threat detection
+- Educational research repos on LLMs + Security
 
-[
-FFN(x)
-======
-
-W_2
-(
-GELU(W_1x)
-)
-]
-
-Usually expands dimensions by 4× before projection back.
+**Featured Areas**
+- Transformer from-scratch + security hardening
+- LLM inference optimization with defensive layers
+- Kernel security modules for AI workloads
 
 ---
 
-# ⚡ Modern Activation Functions
+## 🤝 Connect With Me
 
-## GELU
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE">
+    <img src="https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
-[
-GELU(x)
-=======
+**Tech3Space** — Research lab merging **AI Intelligence** with **Cyber Resilience**.
 
-x
-\Phi(x)
-]
-
-Smooth alternative to ReLU, widely used in GPT.
+*Open to collaborations on Secure AI, Transformer optimization, Red/Blue teaming, and hardware-accelerated systems.*
 
 ---
 
-## SwiGLU
-
-[
-SwiGLU(x)
-=========
-
-Swish(xW_1)
-\odot
-(xW_2)
-]
-
-Provides stronger expressive power and is common in LLaMA and Mistral.
+> **"Build, break, understand, secure, rebuild — forging the future of intelligent and resilient systems."**
 
 ---
 
-## GeGLU
-
-[
-GeGLU(x)
-========
-
-GELU(xW_1)
-\odot
-(xW_2)
-]
-
-Used in models such as Gemma.
+**Made with ❤️ for the AI + Cybersecurity Open Source Community**
 
 ---
 
