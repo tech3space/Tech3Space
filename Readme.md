@@ -1,3 +1,145 @@
+
+### **Specialized Domains**
+
+| Domain | Focus Areas |
+|--------|-------------|
+| **Transformers & LLMs** | Self-Attention, Decoder-only, Scaling Laws, FlashAttention, MoE, Long-Context Modeling |
+| **LLM Acceleration** | Inference optimization, kernel fusion, operator dispatch on custom hardware |
+| **PyTorch OOT Device** | Custom accelerator backend, device guard, ATen ops, dispatcher |
+| **Velox Internals** | Expression evaluation, vectorization, runtime optimization |
+| **FPGA-accelerated Systems** | SQL query engines & cryptography on hardware |
+| **Multimodal AI** | Text + Image + Audio pipelines with security considerations |
+| **AI Agent Benchmarking** | Rigorous evaluation & adversarial robustness testing |
+| **Offensive Security** | Exploit development, red teaming, vulnerability research |
+| **Defensive Security** | Threat hunting, SIEM, incident response, kernel hardening |
+| **Secure AI** | Adversarial ML, model poisoning defense, secure inference pipelines |
+
+---
+
+## 📖 Foundational Research I Study & Implement
+
+### 🤖 Transformers & AI Systems
+
+| # | Paper | Year | Authors |
+|---|-------|------|---------|
+| 1 | **Attention Is All You Need** | 2017 | Vaswani et al. |
+| 2 | **BERT** | 2018 | Devlin et al. |
+| 3 | **GPT** | 2018 | Radford et al. |
+| 4 | **GPT-3** | 2020 | Brown et al. |
+| 5 | **Transformer-XL** | 2019 | Dai et al. |
+| 6 | **Vision Transformer (ViT)** | 2021 | Dosovitskiy et al. |
+| 7 | **T5** | 2019 | Raffel et al. |
+| 8 | **FlashAttention** | 2022 | Dao et al. |
+
+### 🔐 Cybersecurity & Secure Systems
+
+| # | Framework/Attack | Type | Impact |
+|---|------------------|------|--------|
+| 1 | **MITRE ATT&CK** | Threat Framework | Industry standard |
+| 2 | **Zero Trust Architecture** | Security Model | NIST framework |
+| 3 | **Spectre & Meltdown** | Side-channel Attacks | CPU vulnerabilities |
+| 4 | **SolarWinds Supply Chain** | Supply Chain Attack | Lessons learned |
+| 5 | **AI for Security** | Anomaly Detection | Malware classification |
+
+---
+
+## 🔥 Currently Working On
+
+- ✨ **Transformer variants** with built-in adversarial robustness
+- ⚙️ **Custom PyTorch device backends** for secure & accelerated inference
+- 🤖 **AI-powered threat detection** integrated with LLM systems
+- 📡 **FPGA-accelerated secure query engines**
+- 🛡️ **Kernel-level security modules** for AI workloads
+
+---
+
+## 🌱 Tech3Space — Active Research & Projects
+
+### **Current Research Areas**
+
+| Project | Description | Status |
+|---------|-------------|--------|
+| **Transformer Research** | Building & optimizing models from scratch (GPT/BERT-style) | 🚀 Active |
+| **LLM Fine-tuning & Acceleration** | LoRA/QLoRA, vLLM, quantization, kernel fusion | 🚀 Active |
+| **Secure Multimodal Systems** | Text + Image + Audio with adversarial defenses | 🚧 In Progress |
+| **AI-Powered Cybersecurity** | Threat intelligence, anomaly detection, automated red teaming | 🚀 Active |
+| **Hardware Acceleration** | PyTorch OOT devices, Velox optimizations, FPGA prototypes | 🚧 In Progress |
+| **Kernel & Systems Security** | Linux kernel modules, container hardening, monitoring tools | 🚀 Active |
+| **Reproducible Labs** | Dockerized environments for security research & AI experiments | ✅ Complete |
+
+### **Philosophy**
+
+> **Security by Design** • **Performance at Scale** • **Reproducible & Open Research**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ankitkushwaha90&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitkushwaha90&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ankitkushwaha90&theme=github-dark-blue&hide_border=true&ring=58a6ff&fire=ff7c3f" height="165"/>
+</p>
+
+---
+
+## 🌍 Open Source & Contributions
+
+### **Actively Contributing To:**
+
+- 🛡️ Secure Transformer implementations
+- ⚙️ PyTorch ecosystem (custom devices & acceleration)
+- 🔐 Cybersecurity tooling & AI threat detection
+- 📚 Educational research repos on LLMs + Security
+
+### **Featured Areas**
+
+| Area | Focus |
+|------|-------|
+| **Transformer from-scratch** | + security hardening |
+| **LLM inference optimization** | With defensive layers |
+| **Kernel security modules** | For AI workloads |
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/ankitkushwaha90" target="_blank">
+    <img src="https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Ankitkushwaha90" target="_blank">
+    <img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### **Tech3Space**
+
+Research lab merging **AI Intelligence** with **Cyber Resilience**.
+
+🔓 *Open to collaborations on Secure AI, Transformer optimization, Red/Blue teaming, and hardware-accelerated systems.*
+
+---
+
+## 🏆 Quote
+
+> **"Build, break, understand, secure, rebuild — forging the future of intelligent and resilient systems."**
+
+---
+
+<p align="center">
+  <strong>Made with ❤️ for the AI + Cybersecurity Open Source Community</strong>
+</p>
+
+<p align="center">
+  <img src="https://forthebadge.com/videos/badge-made-with-love.svg" alt="Made with Love"/>
+</p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0d1117,50:1f2a44,100:58a6ff&height=160&section=header&text=Ankit%20Kushwaha&fontSize=45&fontColor=58A6FF&animation=fadeIn&fontAlignY=55&desc=Tech3Space%20%E2%80%A2%20AI%20Researcher%20%7C%20Cybersecurity%20Engineer&descAlignY=78&descSize=18&descColor=8b949e" alt="Header"/>
 </p>
