@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0d1117,50:1f2a44,100:58a6ff&height=160&section=header&text=Ankit%20Kushwaha&fontSize=45&fontColor=000000&animation=fadeIn&fontAlignY=55&desc=Tech3Space%20%E2%80%A2%20AI%20Researcher%20%7C%20Cybersecurity%20Engineer&descAlignY=78&descSize=18&descColor=8b949e" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0d1117,50:1f2a44,100:58a6ff&height=160&section=header&text=Ankit%20Kushwaha&fontSize=45&fontColor=#31570&animation=fadeIn&fontAlignY=55&desc=Tech3Space%20%E2%80%A2%20AI%20Researcher%20%7C%20Cybersecurity%20Engineer&descAlignY=78&descSize=18&descColor=8b949e" alt="Header"/>
 </p>
 
 <p align="center">
@@ -99,12 +99,12 @@ Security by Design • Performance at Scale • Reproducible & Open Research
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnkitKushwaha90&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitKushwaha90&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ankitkushwaha90&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitkushwaha90&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AnkitKushwaha90&theme=github-dark-blue&hide_border=true&ring=58a6ff&fire=ff7c3f" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Ankitkushwaha90&theme=github-dark-blue&hide_border=true&ring=58a6ff&fire=ff7c3f" height="165"/>
 </p>
 
 ---
