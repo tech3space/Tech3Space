@@ -99,19 +99,7 @@ Metasploit • Burp Suite • Nmap • Wireshark • Ghidra • Volatility • E
 **Philosophy**  
 Security by Design • Performance at Scale • Reproducible & Open Research
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ankitkushwaha90&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitkushwaha90&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ankitkushwaha90&theme=github-dark-blue&hide_border=true&ring=58a6ff&fire=ff7c3f" height="165"/>
-</p>
-
+ 
 ---
 
 ## 🌍 Open Source & Contributions
@@ -220,19 +208,8 @@ Actively contributing to and building:
 
 > **Security by Design** • **Performance at Scale** • **Reproducible & Open Research**
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ankitkushwaha90&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitkushwaha90&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ankitkushwaha90&theme=github-dark-blue&hide_border=true&ring=58a6ff&fire=ff7c3f" height="165"/>
-</p>
-
+ 
+ 
 ---
 
 ## 🌍 Open Source & Contributions
@@ -273,43 +250,7 @@ Research lab merging **AI Intelligence** with **Cyber Resilience**.
 
 🔓 *Open to collaborations on Secure AI, Transformer optimization, Red/Blue teaming, and hardware-accelerated systems.*
 
----
-
-## 🏆 Quote
-
-> **"Build, break, understand, secure, rebuild — forging the future of intelligent and resilient systems."**
-
----
-
-<p align="center">
-  <strong>Made with ❤️ for the AI + Cybersecurity Open Source Community</strong>
-</p>
-
-
-```text
-Input
-  │
-  ▼
-RMSNorm / LayerNorm
-  │
-  ▼
-Self-Attention
-  │
-  ▼
-Residual Add
-  │
-  ▼
-RMSNorm
-  │
-  ▼
-Feed Forward Network
-  │
-  ▼
-Residual Add
-  │
-Output
-```
-
+  
 ---
 
 # 📊 Comparison of Modern Transformer Models
