@@ -375,24 +375,7 @@ Metasploit -  Burp Suite -  Nmap -  Wireshark -  Ghidra -  Volatility -  ELK -  
   </table>
 </div>
   
-   
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/ankitkushwaha90">
-    <img src="https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
-**Tech3Space** — Research lab merging **AI Intelligence** with **Cyber Resilience**.
-
-*Open to collaborations on Secure AI, Transformer optimization, Red/Blue teaming, and hardware-accelerated systems.*
-
----
-
-> **"Build, break, understand, secure, rebuild — forging the future of intelligent and resilient systems."**
+ 
 
 ---
 
@@ -489,27 +472,6 @@ Metasploit -  Burp Suite -  Nmap -  Wireshark -  Ghidra -  Volatility -  ELK -  
 | **Transformer from-scratch** | + security hardening |
 | **LLM inference optimization** | With defensive layers |
 | **Kernel security modules** | For AI workloads |
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/ankitkushwaha90" target="_blank">
-    <img src="https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Ankitkushwaha90" target="_blank">
-    <img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-### **Tech3Space**
-
-Research lab merging **AI Intelligence** with **Cyber Resilience**.
-
-🔓 *Open to collaborations on Secure AI, Transformer optimization, Red/Blue teaming, and hardware-accelerated systems.*
 
   
 ---
