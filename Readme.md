@@ -217,54 +217,29 @@ Metasploit -  Burp Suite -  Nmap -  Wireshark -  Ghidra -  Volatility -  ELK -  
 
 <div align="center">
   <table>
-    <tr>
-      <th colspan="2">🤖 Transformers & AI Systems</th>
-    </tr>
-    <tr>
-      <td>
-        <ul>
-          <li><strong>Attention Is All You Need</strong> (2017)</li>
-          <li><strong>BERT</strong> (2018)</li>
-          <li><strong>GPT</strong> (2018)</li>
-          <li><strong>GPT-3</strong> (2020)</li>
-          <li><strong>Transformer-XL</strong></li>
-          <li><strong>Vision Transformer (ViT)</strong></li>
-          <li><strong>FlashAttention</strong> (2022)</li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-          <li><strong>T5</strong></li>
-          <li><strong>Decoder-only Architectures</strong></li>
-          <li><strong>Scaling Laws</strong></li>
-          <li><strong>MoE (Mixture of Experts)</strong></li>
-          <li><strong>Long-Context Modeling</strong></li>
-          <li><strong>Multi-modal AI</strong></li>
-        </ul>
-      </td>
-    </tr>
-    
-    <tr>
-      <th colspan="2">🔐 Cybersecurity & Secure Systems</th>
-    </tr>
-    <tr>
-      <td>
-        <ul>
-          <li><strong>MITRE ATT&CK Framework</strong></li>
-          <li><strong>Zero Trust Architecture</strong></li>
-          <li><strong>Spectre & Meltdown</strong></li>
-          <li><strong>SolarWinds Supply Chain</strong></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-          <li><strong>AI for Security</strong></li>
-          <li><strong>Anomaly Detection</strong></li>
-          <li><strong>Malware Classification</strong></li>
-          <li><strong>Side-Channel Attacks</strong></li>
-        </ul>
-      </td>
-    </tr>
+
+   <tr>
+  <th colspan="2">🔐 Cybersecurity & Secure Systems</th>
+</tr>
+<tr>
+  <td>
+    <ul>
+      <li><strong>MITRE ATT&CK Framework</strong></li>
+      <li><strong>Zero Trust Architecture</strong></li>
+      <li><strong>Spectre & Meltdown</strong></li>
+      <li><strong>SolarWinds Supply Chain</strong></li>
+    </ul>
+  </td>
+  <td>
+    <ul>
+      <li><strong>AI for Security</strong></li>
+      <li><strong>Anomaly Detection</strong></li>
+      <li><strong>Malware Classification</strong></li>
+      <li><strong>Side-Channel Attacks</strong></li>
+    </ul>
+  </td>
+</tr>
+   
   </table>
 </div>
  
