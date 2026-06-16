@@ -144,7 +144,7 @@ Actively contributing to and building:
 ---
 
 **Made with ❤️ for the AI + Cybersecurity Open Source Community**
-```
+ 
 
 ### Why this version creates a **powerful impression**:
 - Strong visual header with gradient
