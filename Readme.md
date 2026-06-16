@@ -10,7 +10,7 @@
   <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://tryhackme.com/p/YOUR-USERNAME">
+  <a href="https://tryhackme.com/p/ankitkushwaha90">
     <img src="https://img.shields.io/badge/TryHackMe-212121?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
   </a>
   <a href="https://scholar.google.com/citations?user=YOUR-SCHOLAR-ID">
@@ -26,7 +26,7 @@
   <p>Building next-generation intelligent and resilient systems at <strong>Tech3Space</strong></p>
 </div>
 
----
+
 
 | 👋 About Me |
 |-------------|
@@ -297,8 +297,7 @@ Metasploit -  Burp Suite -  Nmap -  Wireshark -  Ghidra -  Volatility -  ELK -  
     </tr>
   </table>
 </div>
-
----
+ 
 
 ## 🚀 Currently Working On
 
@@ -346,20 +345,7 @@ Metasploit -  Burp Suite -  Nmap -  Wireshark -  Ghidra -  Volatility -  ELK -  
 </table>
 
 ---
-
-## 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ankitkushwaha90&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitkushwaha90&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ankitkushwaha90&theme=github-dark-blue&hide_border=true&ring=58a6ff&fire=ff7c3f" height="165"/>
-</p>
-
----
-
+  
 ## 🌍 Open Source & Projects
 
 ### Active Contributions
@@ -388,89 +374,10 @@ Metasploit -  Burp Suite -  Nmap -  Wireshark -  Ghidra -  Volatility -  ELK -  
     </tr>
   </table>
 </div>
-
+  
+ 
 ---
 
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/ankitkushwaha90" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Ankitkushwaha90" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:YOUR-EMAIL@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=email&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
-<p align="center">
-  <em>🚀 Open to collaborations on <strong>Secure AI</strong>, <strong>Transformer optimization</strong>, <strong>Red/Blue teaming</strong>, and <strong>hardware-accelerated systems</strong></em>
-</p>
-
----
-
-## 🏆 My Philosophy
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?src=Build%2C%20break%2C%20understand%2C%20secure%2C%20rebuild%20%E2%80%94%20forging%20the%20future%20of%20intelligent%20and%20resilient%20systems.&width=800&height=120&color=58a6ff&size=22&vAlign=middle" alt="Typing Quote"/>
-</div>
-
----
-
-<p align="center">
-  <strong>Tech3Space</strong> — Research lab merging <strong>AI Intelligence</strong> with <strong>Cyber Resilience</strong>
-</p>
-
-<p align="center">
-  <img src="https://forthebadge.com/videos/badge-made-with-love.svg" alt="Made with Love"/>
-  <img src="https://forthebadge.com/videos/badge-opensource.svg" alt="Open Source"/>
-  <img src="https://visage.app/api/generated/0xAbhishek/0xAbhishek/footer" alt="Footer"/>
-</p>
-
-<p align="center">
-  <em>Made with ❤️ for the AI + Cybersecurity Open Source Community</em>
-</p>
-
-
-
-<p align="center">
-  <img src="https://forthebadge.com/videos/badge-made-with-love.svg" alt="Made with Love"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0d1117,50:1f2a44,100:58a6ff&height=160&section=header&text=Ankit%20Kushwaha&fontSize=45&fontColor=58A6FF&animation=fadeIn&fontAlignY=55&desc=Tech3Space%20%E2%80%A2%20AI%20Researcher%20%7C%20Cybersecurity%20Engineer&descAlignY=78&descSize=18&descColor=8b949e" alt="Header"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/AnkitKushwaha90">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://tryhackme.com/p/YOUR-USERNAME">
-    <img src="https://img.shields.io/badge/TryHackMe-212121?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
-  </a>
-  <a href="https://scholar.google.com/citations?user=YOUR-SCHOLAR-ID">
-    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/>
-  </a>
-</p>
-
----
-
-<div align="center">
-  <h2>AI × Cybersecurity Researcher & Systems Engineer</h2>
-  <p><strong>Transformers • LLM Acceleration • Secure AI Systems • Hardware Co-Design • Offensive & Defensive Security</strong></p>
-  <p>Building next-generation intelligent and resilient systems at <strong>Tech3Space</strong></p>
-</div>
-
----
-
-| 👋 About Me |
-|-------------|
-| 🧑‍💻 **Ankit Kushwaha** — Passionate AI & Cybersecurity Researcher <br>🏢 **Founder & Lead Researcher @ Tech3Space** <br>🌍 Based in **India** <br>🔥 Currently advancing **Transformer architectures**, LLM acceleration, and **AI-powered cybersecurity** <br>🛡️ Bridging **Deep Learning Systems** with **Offensive/Defensive Security** and hardware-level protections <br>⚡ Deep expertise in **PyTorch internals**, custom accelerators, kernel security, and scalable inference <br>🔬 Implementing foundational research papers while building production-grade secure AI systems <br>💬 Ask me about **Transformers, LLM Optimization, AI Security, Red Teaming, or Hardware Acceleration** <br>⚡ Motto: *“Build, break, understand, secure, rebuild — forging intelligent and resilient systems.”* |
 
 ---
 
@@ -756,8 +663,25 @@ Research lab merging **AI Intelligence** with **Cyber Resilience**.
 * Designed for strong performance with practical resource usage
 
 ---
- 
----
+  
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/ankitkushwaha90" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Ankitkushwaha90" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:YOUR-EMAIL@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=email&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<p align="center">
+  <em>🚀 Open to collaborations on <strong>Secure AI</strong>, <strong>Transformer optimization</strong>, <strong>Red/Blue teaming</strong>, and <strong>hardware-accelerated systems</strong></em>
+</p>
+
 
 <p align="center">
 <b>⭐ Tech3Space Research Series</b><br/>
