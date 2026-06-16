@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0d1117,50:1f2a44,100:58a6ff&height=160&section=header&text=Ankit%20Kushwaha&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Tech3Space%20%E2%80%A2%20AI%20Researcher%20%7C%20Cybersecurity%20Engineer&descAlignY=78&descSize=18&descColor=8b949e" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0d1117,50:1f2a44,100:58a6ff&height=160&section=header&text=Ankit%20Kushwaha&fontSize=45&fontColor=000000&animation=fadeIn&fontAlignY=55&desc=Tech3Space%20%E2%80%A2%20AI%20Researcher%20%7C%20Cybersecurity%20Engineer&descAlignY=78&descSize=18&descColor=8b949e" alt="Header"/>
 </p>
 
 <p align="center">
@@ -127,7 +127,7 @@ Actively contributing to and building:
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE">
+  <a href="https://linkedin.com/in/ankitkushwaha90">
     <img src="https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
